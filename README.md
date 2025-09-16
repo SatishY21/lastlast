@@ -38,8 +38,6 @@ The analysis of the sales data yielded several key insights into the business's 
 
 These findings suggest that the business's success is heavily concentrated in the Maharashtra region, driven by sales of medium-sized T-shirts to retail customers, and supported by Amazon's fulfillment network.
 
-![Bar chart showing sales by state](https://i.imgur.com/example-state-chart.png)
-_Example Visualization: Top 10 States by Order Volume_
 
 ---
 
